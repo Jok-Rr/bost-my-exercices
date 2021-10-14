@@ -1,1 +1,1 @@
-const my_sum = (a, b) => (a + b | 0);
+export const my_sum = (a, b) => (a + b | 0);
